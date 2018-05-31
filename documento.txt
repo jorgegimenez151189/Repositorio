@@ -1,0 +1,3 @@
+este es un documento, nuevo 
+de git para probar
+sigo probando el documento
